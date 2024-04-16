@@ -1,0 +1,10 @@
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.AssemblyReference.cache
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\obj\Debug\Calculadora_Simples.Form1.resources
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.cache
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+C:\Users\caue.fsantos2\source\repos\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
